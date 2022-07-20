@@ -7,7 +7,7 @@
     "start": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "ngo huy",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
